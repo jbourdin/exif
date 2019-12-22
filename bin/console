@@ -1,0 +1,4 @@
+#!/usr/bin/env php
+<?php
+
+require 'src/Jbourdin/Exif/console.php';
